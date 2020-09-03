@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/adaapp/di-workshop-05-objects#readme",
   "dependencies": {
-    "serve": "^10.0.2"
+    "serve": "^10.1.2"
   }
 }
